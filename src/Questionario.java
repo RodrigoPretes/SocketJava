@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//questionario
 public class Questionario {
 
     //Pergunta[] perguntas;

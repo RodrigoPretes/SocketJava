@@ -1,5 +1,5 @@
 import java.util.ArrayList;
-
+//classe pergunta que contem um objeto string enunciado e char afirmativa
 public class Pergunta {
 
     String pergunta;

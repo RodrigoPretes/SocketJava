@@ -1,3 +1,4 @@
+//string que contem enunciado
 public class Alternativa {
 
     public char alternativa;

@@ -1,7 +1,7 @@
 import java.io.*;
 import java.net.Socket;
 import java.net.SocketAddress;
-
+//client socket
 public class ClientSocket {
 
     private final Socket socket;

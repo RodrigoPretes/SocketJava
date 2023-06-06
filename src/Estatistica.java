@@ -51,7 +51,7 @@ public class Estatistica {
                 respostaSoma[2] += somatorio.get(j)[2];
                 if (resposta == 'A') {
                     respostaSoma[0]++;
-                    //somatorio.get(j)[0] = somatorio.get(j)[0] + 1;
+                    ///somatorio.get(j)[0] = somatorio.get(j)[0] + 1;
                 }
                 if (resposta == 'B') {
                     respostaSoma[1]++;
