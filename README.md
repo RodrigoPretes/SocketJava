@@ -16,7 +16,7 @@ envio de mensagens e participação em um questionário. O servidor coleta e ana
 1. Clone o repositório usando o seguinte comando:
 
 ```
-https://github.com/RodrigoPretes/SocketJava.git
+git clone https://github.com/RodrigoPretes/SocketJava.git
 
 ```
 
